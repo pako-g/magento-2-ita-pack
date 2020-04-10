@@ -8,7 +8,7 @@
   },
   "type": "magento2-language",
   "minimum-stability": "dev",
-  "prefer-stable": false,
+  "prefer-stable": true,
   "license": [
     "MIT"
   ],
