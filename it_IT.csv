@@ -2536,7 +2536,6 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "Watermark Opacity, Percent","Opacità filigrana, percentuale",module,Magento_Catalog
 "Watermark","Filigrana",module,Magento_Catalog
 "Watermark Position","Posizione della filigrana",module,Magento_Catalog
-"none","nessuno",module,Magento_Catalog
 "File validation failed.","Convalida del file non riuscita.",module,Magento_Catalog
 "text","testo",module,Magento_Catalog
 "Tier Price","Fasce di prezzo",module,Magento_Catalog
