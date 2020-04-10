@@ -2,7 +2,7 @@
   "name": "pakog/magento-2-ita-pack",
   "description": "Italian language package for Magento 2",
   "homepage": "https://tutorail4dev.com",
-  "version": "1.0",
+  "version": "1.1",
   "require": {
     "magento/framework": "^100.0.0 || ^101.0.0 || ^102.0.0"
   },
