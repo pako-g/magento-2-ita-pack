@@ -2,12 +2,13 @@
   "name": "pakog/magento-2-ita-pack",
   "description": "Italian language package for Magento 2",
   "homepage": "https://tutorail4dev.com",
+  "version": "1.0",
   "require": {
     "magento/framework": "^100.0.0 || ^101.0.0 || ^102.0.0"
   },
   "type": "magento2-language",
   "minimum-stability": "dev",
-  "prefer-stable": true,
+  "prefer-stable": false,
   "license": [
     "MIT"
   ],
@@ -23,11 +24,5 @@
     "files": [
       "registration.php"
     ]
-  },
-  "repositories":[
-    {
-      "type": "vcs",
-      "url": "git@github.com:pako-g/magento-2-ita-pack.git"
-    }
-  ]
+  }
 }
